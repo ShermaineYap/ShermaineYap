@@ -1,7 +1,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00f5d4&height=220&section=header&text=Shermaine%20Yap&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20AI%20%26%20Deep%20Learning%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="./assets/header.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=%3E+Initializing+Shermaine.exe+...;%3E+Turning+raw+data+into+insights+%F0%9F%93%8A;%3E+Training+neural+networks+%F0%9F%A7%A0;%3E+Writing+SQL+that+actually+runs+%E2%9A%A1;%3E+Building+with+AI+%F0%9F%9A%80" alt="Typing SVG" />
@@ -101,7 +101,6 @@ class Shermaine:
 
 <img src="https://streak-stats.demolab.com?user=ShermaineYap&theme=tokyonight&hide_border=true&background=0f0c29&ring=00F5D4&fire=FF4FD8&currStreakLabel=00F5D4&sideLabels=FFFFFF&dates=A0A0C0" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShermaineYap&bg_color=0f0c29&color=00f5d4&line=ff4fd8&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
